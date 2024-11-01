@@ -1,0 +1,85 @@
+/* src/Dashboard.css */
+
+.dashboard {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.dashboard-header {
+  background-color: #007bff;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.dashboard-main {
+  flex: 1;
+  padding: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.data-section {
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.service-performance {
+  text-align: center;
+}
+
+.performance-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.progress-bar {
+  background-color: #e9ecef;
+  height: 1rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+.progress-fill {
+  background-color: #007bff;
+  height: 100%;
+  transition: width 0.5s ease;
+}
+
+.charts-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.chart-container {
+  flex: 1 1 calc(50% - 1rem);
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.chart-container h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .chart-container {
+    flex: 1 1 100%;
+  }
+}
+
+.dashboard-footer {
+  background-color: #343a40;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
