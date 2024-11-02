@@ -1,6 +1,6 @@
 # Caguas 2024 - Caguas Energy Hackathon @ C3Tec
 
-Bienvenidos al repositorio oficial del Hackathon de Caguas. Este espacio ha sido creado para almacenar y compartir el trabajo realizado durante el evento. **El jueves 31 de octubre a las 3:00 PM** tendremos una llamada para compartir detalles sobre cómo unirse y subir proyectos, prototipos, y cualquier otro material relevante para fomentar la colaboración en futuros desarrollos.
+Bienvenidos al repositorio oficial del Hackathon de Caguas. Este espacio ha sido creado para almacenar y compartir el trabajo realizado durante el evento. Se puede subir proyectos, prototipos, y cualquier otro material relevante para fomentar la colaboración en futuros desarrollos.
 
 ---
 
